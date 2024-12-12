@@ -1,0 +1,10 @@
+# django
+djangorestframework
+# mysqlclient
+# pymongo
+# qdrant-client
+# transformers
+# sentence-transformers
+# torch
+# einops
+# accelerate>=0.26.0
